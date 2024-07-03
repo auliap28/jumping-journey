@@ -1,0 +1,32 @@
+{
+	"name": "New project",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "lmhdgkeeqf0",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r397",
+	"ife": false,
+	"used-plugins": [
+		"TiledBg",
+		"Sprite",
+		"Text",
+		"Audio",
+		"Mouse",
+		"Keyboard"
+	],
+	"used-behaviors": [
+		"solid",
+		"bound",
+		"Sin",
+		"Platform",
+		"scrollto",
+		"Anchor"
+	]
+}
